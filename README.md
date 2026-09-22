@@ -15,10 +15,14 @@ Installer avhengighetene med:
 
 ```bash
 pnpm install
-markdown
+```
 ## Starte utviklingsserveren
 
 Start utviklingsserveren med:
 
 ```bash
 pnpm dev
+```
+## Status
+
+Prosjektet er satt opp som et minimalt Vite-prosjekt. Demo-innholdet er fjernet, og prosjektet er klart for videre utvikling.
