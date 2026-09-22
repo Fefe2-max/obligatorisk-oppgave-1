@@ -26,3 +26,6 @@ pnpm dev
 ## Status
 
 Prosjektet er satt opp som et minimalt Vite-prosjekt. Demo-innholdet er fjernet, og prosjektet er klart for videre utvikling.
+## Oppstart
+
+Prosjektet startes med `pnpm dev`. Etter oppstart viser Vite adressen til utviklingsserveren i terminalen.
